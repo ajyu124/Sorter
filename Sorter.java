@@ -13,6 +13,7 @@ public class Sorter {
 
   public void run() {
     Scanner inputData = OpenFile.openToRead("InputData.txt");
+    PrintWriter outputSortedRanking = OpenFile.openToWrite("OutputSortedRanking.txt");
     
   }
 }
