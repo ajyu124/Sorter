@@ -1,0 +1,9 @@
+RESULTS: 
+
+
+
+-----------------------------
+Your ranking is complete! Check OutputSortedRanking.txt.
+It took a total of 0 comparisons to sort 0 elements.
+
+
